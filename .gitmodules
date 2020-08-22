@@ -1,0 +1,45 @@
+[submodule "Application"]
+	path = Application
+	url = git@github.com:GraiaProject/Application.git
+[submodule "lua-mirai"]
+	path = lua-mirai
+	url = git@github.com:only52607/lua-mirai.git
+[submodule "Mirai-PHP"]
+	path = Mirai-PHP
+	url = git@github.com:KawaiiZapic/Mirai-PHP.git
+[submodule "mirai-kts"]
+	path = mirai-kts
+	url = git@github.com:iTXTech/mirai-kts.git
+[submodule "node-mirai"]
+	path = node-mirai
+	url = git@github.com:RedBeanN/node-mirai.git
+[submodule "gomirai"]
+	path = gomirai
+	url = git@github.com:Logiase/gomirai.git
+[submodule "mirai-rhinojs-sdk"]
+	path = mirai-rhinojs-sdk
+	url = git@github.com:StageGuard/mirai-rhinojs-sdk.git
+[submodule "mirai-CSharp"]
+	path = mirai-CSharp
+	url = git@github.com:Executor-Cheng/mirai-CSharp.git
+[submodule "miraipp-template"]
+	path = miraipp-template
+	url = https://github.com.cnpmjs.org/Chlorie/miraipp-template.git
+[submodule "mirai-rs"]
+	path = mirai-rs
+	url = git@github.com:HoshinoTented/mirai-rs.git
+[submodule "mirai-cpp"]
+	path = mirai-cpp
+	url = git@github.com:cyanray/mirai-cpp.git
+[submodule "mirai-ts"]
+	path = mirai-ts
+	url = git@github.com:YunYouJun/mirai-ts.git
+[submodule "ProjHyperai"]
+	path = ProjHyperai
+	url = git@github.com:theGravityLab/ProjHyperai.git
+[submodule "e-mirai"]
+	path = e-mirai
+	url = git@github.com:only52607/e-mirai.git
+[submodule "mirai-console"]
+	path = mirai-console
+	url = git@github.com:mamoe/mirai-console.git
