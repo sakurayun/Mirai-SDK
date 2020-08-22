@@ -1,2 +1,2 @@
 # Mirai-SDK
-🌠一个用于收录Mirai插件的仓库|mirai|plugins|mirai plugins|mirai-plugins
+🌠一个用于收录 Mirai SDK 的仓库
